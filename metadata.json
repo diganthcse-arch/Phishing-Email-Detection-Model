@@ -1,0 +1,6 @@
+{
+  "name": "Phishing Email Detection Model",
+  "description": "An interactive machine learning sandbox that trains a classifier on text and URL features to detect phishing emails, displaying live accuracy metrics and confusion matrices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
